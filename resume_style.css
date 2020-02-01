@@ -42,7 +42,7 @@ h2{
 }
 .header-right{
     width: 100%;
-    display: grid;
+    /*display: grid;*/
     justify-items: end;
 }
 .header-right p{
